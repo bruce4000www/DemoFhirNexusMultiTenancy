@@ -17,7 +17,10 @@
       },
       "OtlpExporter": true
     },
-    "Authentication": "DemoFhirNexusMultiTenancy.Security.HeadersAuthenticationHandler",
+    // "Authentication": "DemoFhirNexusMultiTenancy.Security.HeadersAuthenticationHandler",
+    "MultitenancyAuthentication": {
+      "ApiKeyHeaderName": "x-api-key"
+    },
     "ResourceRepositoryCache": {
       "GlobalExpiration": "01:00:00",
       "AllowCacheDisable": true
