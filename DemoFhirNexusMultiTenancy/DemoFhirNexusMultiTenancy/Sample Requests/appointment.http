@@ -1,7 +1,7 @@
 @baseUrl=https://localhost:7006
-@tenant1path=4C618DFEF3CC458FB2BA475E86D6E6B0
+@tenant1path=4c618dfef3cc458fb2ba475e86d6e6b0
 @tenant1apikey=abcdefghij
-@tenant2path=FE406148A2E24426BC6631E9411A3034
+@tenant2path=fe406148a2e24426bc6631e9411a3034
 @tenant2apikey=1234567890
 
 ### Create appointment for tenant 1

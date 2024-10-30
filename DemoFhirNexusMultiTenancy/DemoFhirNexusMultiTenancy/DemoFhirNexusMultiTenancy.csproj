@@ -19,6 +19,7 @@
         <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.Swashbuckle" Version="4.2.0" />
         <PackageReference Include="Ihis.FhirEngine.WebApi.R4" Version="4.2.0" />
         <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.Multitenancy" Version="4.2.0" />
+        <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.Multitenancy.DataStore" Version="4.2.0" />
     </ItemGroup>
 
     <ItemGroup>
