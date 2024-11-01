@@ -1,4 +1,5 @@
 {
+  "PathFormat": "/r4b/{0}",
   "EnableHandlerAutoRegistration": true,
   "PublicConformanceResources": true,
   "UseFhirController": false,

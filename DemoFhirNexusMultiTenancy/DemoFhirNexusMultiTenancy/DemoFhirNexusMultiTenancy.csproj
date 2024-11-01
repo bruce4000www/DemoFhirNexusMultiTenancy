@@ -6,20 +6,16 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
-
-    <ItemGroup>
-    </ItemGroup>
     
     <ItemGroup>
     
-        <PackageReference Include="Ihis.FhirEngine.Data.SqlServer" Version="4.2.0" />
-        <PackageReference Include="Ihis.FhirEngine.Data.SqlServer.Extensions.Migration" Version="4.2.0" />
-        <PackageReference Include="Ihis.FhirEngine.Extensions.OpenTelemetry" Version="4.2.0" />
-        <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.AuditLogging.Serilog" Version="4.2.0" />
-        <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.Swashbuckle" Version="4.2.0" />
-        <PackageReference Include="Ihis.FhirEngine.WebApi.R4" Version="4.2.0" />
-        <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.Multitenancy" Version="4.2.0" />
-        <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.Multitenancy.DataStore" Version="4.2.0" />
+        <PackageReference Include="Ihis.FhirEngine.Data.SqlServer" Version="5.0.0-dev-*" />
+        <PackageReference Include="Ihis.FhirEngine.Data.SqlServer.Extensions.Migration" Version="5.0.0-dev-*" />
+        <PackageReference Include="Ihis.FhirEngine.Extensions.OpenTelemetry" Version="5.0.0-dev-*" />
+        <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.AuditLogging.Serilog" Version="5.0.0-dev-*" />
+        <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.Swashbuckle" Version="5.0.0-dev-*" />
+        <PackageReference Include="Ihis.FhirEngine.WebApi.R4" Version="5.0.0-dev-*" />
+        <PackageReference Include="Ihis.FhirEngine.WebApi.Extensions.Multitenancy.DataStore" Version="5.0.0-dev-*" />
     </ItemGroup>
 
     <ItemGroup>
